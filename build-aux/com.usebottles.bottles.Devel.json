@@ -114,8 +114,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/KhronosGroup/Vulkan-Tools.git",
-                    "tag": "vulkan-sdk-1.4.304.0",
-                    "commit": "4c25e78dd87720275ab069de1fe2e005cd528ed9",
+                    "tag": "vulkan-sdk-1.4.357.0",
+                    "commit": "286299bb6b732e4b22771cfb9d7d421542d40501",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^vulkan-sdk-([\\d.]+)$"
@@ -144,8 +144,8 @@
                         {
                             "type": "git",
                             "url": "https://github.com/KhronosGroup/Vulkan-Headers.git",
-                            "tag": "vulkan-sdk-1.4.304.0",
-                            "commit": "d4a196d8c84e032d27f999adcea3075517c1c97f",
+                            "tag": "vulkan-sdk-1.4.357.0",
+                            "commit": "e3b1eec08173d6b825cd3ac88c885a63b621504a",
                             "x-checker-data": {
                                 "type": "git",
                                 "tag-pattern": "^vulkan-sdk-([\\d.]+)$"
@@ -162,8 +162,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.freedesktop.org/xorg/app/xdpyinfo.git",
-                    "tag": "xdpyinfo-1.3.4",
-                    "commit": "ea4083ccb2a5ce4252acabeb2eb7bf49f7be25e0",
+                    "tag": "xdpyinfo-1.4.0",
+                    "commit": "7fe49a22498b9438a15d5d9fdef55d5d832b1672",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^xdpyinfo-([\\d.]+)$"
@@ -184,8 +184,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ImageMagick/ImageMagick",
-                    "tag": "7.1.1-43",
-                    "commit": "a2d96f40e707ba54b57e7d98c3277d3ea6611ace",
+                    "tag": "7.1.2-31",
+                    "commit": "fb965f1b54a65ddb633f8c2eac4452c782c66d7f",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+-[\\d]+)$"
@@ -207,8 +207,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/flatpak/libportal",
-                    "tag": "0.9.0",
-                    "commit": "731e7410fa5765e7c4eb76a51140a19637620c13",
+                    "tag": "0.10.0",
+                    "commit": "c23024018c8eb076549a1517fcb2d7f80d3e2ed5",
                     "x-checker-data": {
                         "type": "git",
                         "is-important": true,
@@ -224,8 +224,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-                    "tag": "v0.16.0",
-                    "commit": "04ef0944db56ab01307a29aaa7303df6067cb3c0",
+                    "tag": "v0.22.2",
+                    "commit": "ed35ac74de0c1bb1f5e852410b97edd1f08904c9",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
@@ -263,8 +263,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/bottlesdevs/EasyTerm",
-                    "tag": "0.2.0",
-                    "commit": "6fbeab0470df55aeab141a45763147440b2f0290",
+                    "tag": "1.0.0",
+                    "commit": "4ab1f6a14111d05bcca9537bd479e450162e5a40",
                     "x-checker-data": {
                         "type": "git",
                         "is-important": true,
@@ -283,8 +283,8 @@
                         {
                             "type": "git",
                             "url": "https://gitlab.gnome.org/GNOME/vte",
-                            "tag": "0.78.3",
-                            "commit": "6f293fa50a52c79a47642875a534dacaf3913a55",
+                            "tag": "0.84.1",
+                            "commit": "f2223e45d7f04c5383c59e76772501f0ed4215bc",
                             "x-checker-data": {
                                 "type": "git",
                                 "tag-pattern": "^([\\d.]+)$"
